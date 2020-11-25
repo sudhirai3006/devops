@@ -1,1 +1,1 @@
-hi this is b.txt file 
+hi this is b.txt file BC
